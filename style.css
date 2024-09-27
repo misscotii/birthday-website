@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'myFont';
+    src: url(LEMONMILK-Regular.otf);
+}
+body{
+    background: #000000;
+}
+h1{
+    font-family: 'myFont';
+    color: orange;
+}
+.container{
+    font-family: 'myFont';
+    color: orange;
+    font-size: x-large;
+    text-align: center; /* Center the text inside the container */
+    margin: 0 auto;     /* Center the container itself */
+    width: 100%;        /* Make the container take up full width */
+}
+   
